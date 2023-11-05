@@ -1,0 +1,21 @@
+.vimage {
+  width:280px;
+  height:250px;
+}
+.view {
+  width:300px;
+  border:1px solid lightgray;
+  text-align:center;
+  padding:10px;
+  margin:10px;
+  float:left;
+}
+.plist {
+  width:70%;
+  margin:auto;
+}
+
+.content {
+  height:800px;
+  background-color: beige;
+}
