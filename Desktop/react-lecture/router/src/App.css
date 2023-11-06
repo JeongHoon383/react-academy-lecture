@@ -1,0 +1,16 @@
+.notFound-img{
+  width: 100%;
+  height: 100%;
+}
+
+.navbar{
+  height: 30px;
+  background-color: pink;
+}
+
+.menu{
+  height: 30px;
+  border: 1px solid black;
+  background-color: tomato;
+  color: white;
+}
