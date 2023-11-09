@@ -1,0 +1,50 @@
+[
+  {
+    "image" : "https://image.yes24.com/goods/99308021/L",
+    "top_tag" : "",
+    "kind" : "도서",
+    "title" : "불편한 편의점 [벚꽃 에디션]",
+    "comment" : "",
+    "author" : "김호연",
+    "company" : "나무옆의자",
+    "pdate" : "2021년 04월",
+    "price" : "12,600원",
+    "point" : "700원",
+    "sale_graph" : "536,394",
+    "review" : "532건",
+    "de_date" : "11/8(수) 도착예정",
+    "goods" : "#2022포천시올해의책"
+  },
+  {
+    "image" : "https://image.yes24.com/goods/112253263/L",
+    "top_tag" : "2022 올해의 책",
+    "kind" : "도서",
+    "title" : "아버지의 해방일지",
+    "comment" : "",
+    "author" : "정지아",
+    "company" : "창비",
+    "pdate" : "2022년 09월",
+    "price" : "13,500원",
+    "point" : "750원",
+    "sale_graph" : "486,054",
+    "review" : "344건",
+    "de_date" : "11/8(수) 도착예정",
+    "goods" : "#이달의굿즈"
+  },
+  {
+    "image" : "https://image.yes24.com/goods/111088149/L",
+    "top_tag" : "오늘의책",
+    "kind" : "도서",
+    "title" : "불편한 편의점 2 [단풍 에디션]",
+    "comment" : "",
+    "author" : "김호연",
+    "company" : "나무옆의자",
+    "pdate" : "2022년 08월",
+    "price" : "12,600원",
+    "point" : "700원",
+    "sale_graph" : "476,943",
+    "review" : "207건",
+    "de_date" : "11/8(수) 도착예정",
+    "goods" : "#크레마클럽에있어요"
+  }
+]
