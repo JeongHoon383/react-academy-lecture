@@ -1,0 +1,50 @@
+[
+  {
+    "image" : "https://image.yes24.com/goods/123155346/L",
+    "top_tag" : "예약판매",
+    "kind" : "도서",
+    "title" : "더 마인드",
+    "comment" : "무의식이 이끄는 부의 해답",
+    "author" : "하와이 대저택",
+    "company" : "웅진지식하우스",
+    "pdate" : "2023년 10월",
+    "price" : "17,820원",
+    "point" : "990원",
+    "sale_graph" : "244,140",
+    "review" : "4건",
+    "de_date" : "11/8(수) 도착예정",
+    "goods" : "#이달의굿즈"
+  },
+  {
+    "image" : "https://image.yes24.com/goods/122426425/L",
+    "top_tag" : "오늘의책",
+    "kind" : "도서",
+    "title" : "트렌드 코리아 2024",
+    "comment" : "청룡을 타고 비상하는 2024를 기원하며!",
+    "author" : "김난도, 전미영, 최지혜, 이수진, 권정윤 저 외 6명",
+    "company" : "미래의창",
+    "pdate" : "2023년 10월",
+    "price" : "17,100원",
+    "point" : "950원",
+    "sale_graph" : "599,958",
+    "review" : "49건",
+    "de_date" : "11/8(수) 도착예정",
+    "goods" : "#서탐대실"
+  },
+  {
+    "image" : "https://image.yes24.com/goods/123310434/L",
+    "top_tag" : "",
+    "kind" : "도서",
+    "title" : "김대리의 데일리 뜨개",
+    "comment" : "누구나 쉽게 완성하는 감각적인 니트와 소품 14",
+    "author" : "김대리",
+    "company" : "웅진리빙하우스",
+    "pdate" : "2023년 11월",
+    "price" : "18,900원",
+    "point" : "1,050원",
+    "sale_graph" : "105,420",
+    "review" : "13건",
+    "de_date" : "11/9(수) 도착예정",
+    "goods" : "#뜨개질도안"
+  }
+]

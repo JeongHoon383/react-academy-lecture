@@ -1,0 +1,30 @@
+  UI	  Server   DB
+-------------------------------
+React  +  NodeJS + MySQL
+   ---------
+     fetch --> useState, useEffect
+     axios --> useState, useEffect
+
+1. dev\web_project 구조
+   1) dev\web_project 폴더 생성	
+      ~dev>mkdir web_project
+
+   2) React 프로젝트 생성
+    ~dev/web_project>yarn create react-app front
+    ~dev/web_project>dev\web_project\front 
+    ~dev/web_project/front>yarn add react-router-dom
+    ~dev/web_project/front>yarn add react-bootstrap
+    ~dev/web_project/front>yarn add axios
+
+   2) NodeJS 프로젝트 생성
+   ~dev/web_project>mkdir server  
+   
+   ~dev/web_project/server>npm init --yes : 프로젝트 초기화
+   ~dev/web_project/server>npm i express
+   ~dev/web_project/server>npm i mysql2
+   ~dev/web_project/server>npm i cors
+   ~dev/web_project/server>npm i nodemon --save-dev
+	  
+      
+
+	

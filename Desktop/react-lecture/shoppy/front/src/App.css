@@ -1,0 +1,56 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom : 1px solid lightgray;
+}
+.header_left, .header_right {
+  text-decoration: none;
+  margin : 5px 20px;
+}
+.header_left{
+  color : tomato;
+  font-size : 1.5rem;
+}
+.header_right *{
+  text-decoration: none;
+  padding:5px;
+  color : rgb(53, 52, 52);
+  float : left;  
+}
+.header_right button {
+  margin-left: 15px;
+}
+.banner {
+  margin-bottom: 30px;
+  font-style: italic;
+  padding-top:20px;
+  color :black;
+  font-size:20pt;
+  text-align:center;
+  height:400px;
+  background-image: url('https://atimg.sonyunara.com/files/attrangs/new_banner/1699318539_0.jpg');
+}
+.content {
+  /* border:1px solid red; */
+  padding:0px; margin:0px; 
+}
+.productavata_image {
+  /* border:1px solid red; */
+  width:300px; height:380px; 
+  margin: 0.5rem 0;
+}
+.productavata {
+  /* border:1px solid red; */
+  width:400px; height:480px;
+  text-align:center;
+  padding-left:30px;
+  float:left;
+}
+.product_detail {
+  /* border:1px solid blue; */
+}
+.detail_image{
+  /* border:1px solid red; */
+  width:500px; height:580px;
+
+}

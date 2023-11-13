@@ -1,0 +1,50 @@
+[
+  {
+    "image" : "https://image.yes24.com/goods/122426425/L",
+    "top_tag" : "오늘의책",
+    "kind" : "도서",
+    "title" : "트렌드 코리아 2024",
+    "comment" : "청룡을 타고 비상하는 2024를 기원하며!",
+    "author" : "김난도, 전미영, 최지혜, 이수진, 권정윤 저 외 6명",
+    "company" : "미래의창",
+    "pdate" : "2023년 10월",
+    "price" : "17,100원",
+    "point" : "950원",
+    "sale_graph" : "599,958",
+    "review" : "49건",
+    "de_date" : "11/8(수) 도착예정",
+    "goods" : "#서탐대실"
+  },
+  {
+    "image" : "https://image.yes24.com/goods/122090360/L",
+    "top_tag" : "",
+    "kind" : "도서",
+    "title" : "퓨처 셀프",
+    "comment" : "현재와 미래가 달라지는 놀라운 혁명",
+    "author" : "벤저민 하디, 최은아",
+    "company" : "상상스퀘어",
+    "pdate" : "2023년 08월",
+    "price" : "17,820원",
+    "point" : "990원",
+    "sale_graph" : "542,208",
+    "review" : "28",
+    "de_date" : "11/8(수) 도착예정",
+    "goods" : "#멘토를찾아서"
+  },
+  {
+    "image" : "https://image.yes24.com/goods/122457906/L",
+    "top_tag" : "오늘의책",
+    "kind" : "도서",
+    "title" : "시대예보 : 핵개인의 시대 [양장]",
+    "comment" : "",
+    "author" : "송길영",
+    "company" : "교보문고",
+    "pdate" : "2023년 09월",
+    "price" : "18,900원",
+    "point" : "1,050원",
+    "sale_graph" : "310,890",
+    "review" : "75건",
+    "de_date" : "11/8(수) 도착예정",
+    "goods" : "#이달의굿즈"
+  }
+]
